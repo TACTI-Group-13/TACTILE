@@ -1,0 +1,7 @@
+Web Speech API de w3c
+
+https://github.com/TACTI-Group-13/TACTILE/search?q=Web+Speech+API
+
+W3C vibration API
+
+https://github.com/TACTI-Group-13/TACTILE/search?q=W3C+vibration+API
